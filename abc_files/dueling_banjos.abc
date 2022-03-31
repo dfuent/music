@@ -1,0 +1,40 @@
+X: 1
+T: Dueling Banjos well Part of it..
+N:Instrument Channel 1 ... [Banjo]
+N:Instrument Channel 2 ... [Acoustic Guitar (Steel)]
+N:Instrument Channel 3 ... [Acoustic Guitar (Steel)]
+N:Instrument Channel 4 ... [Banjo]
+N:Instrument Channel 5 ... [Acoustic Bass]
+M:4/4
+L:1/8
+Q:1/4=140
+N:Last note suggests Phrygian mode tune
+K:Ab
+%sequenced by: Mok
+%tempo
+V:1
+%BANJO MELODY
+%%MIDI program 1 105
+z3/2F/2 F/2F3/2 GA B3/2c/2-|c/2B3/2 A4 z2|z8|z4 F/2FFGA/2-|
+A(3B2c2B2A3-|A/2z6z3/2|z4 z/2B/2B/2B3/2c|(3d2_e2f2 _e3/2d2-d/2-|
+dz6z|z4 z/2F/2F/2F3/2G|(3A2B2c2 B3/2A2z/2|z8|
+z2 z/2CC/2 (3c2d2=e2|(3f2g2f2 e3/2z2z/2|z8|z2 z/2A/2A fd zf-|
+f3/2z4z3/2A/2A/2-|A/2Ad3/2f2-f/2z2z/2|z6 zA/2B/2-|B/2c(3A2B2G2A3/2F-|
+FG4z3|z6 zA/2B/2-|B/2(3c2A2B2G3/2 A3/2F/2-|F3/2G6z/2|
+z8|z2 z/2(3C2F2F2G3/2|(3A2F2A2 G3z|z8|
+z6 zF/2F/2|FG AB cB A2-|A/2z6z/2F/2F/2|FG AB cB A2-|
+A/2z6z/2B/2B/2|Bc d_e f_e d2-|dz6F/2F/2|FG AB cB A2|
+z6 zc/2c/2|cd =ef gf e2|z3c/2A/2 AB A3/2z/2|z3c/2A/2 AB A3/2z/2|
+z6 zA/2B/2|cA BG AF G2|z6 zA/2B/2|cA BG AF GC|
+FF GA FA GC|FF GA FF GA/2
+B/2d/2b/2B/2 d/2b/2B/2b/2 B/2d/2b/2B/2 d/2b/2B/2b/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|c/2e/2c'/2c/2 e/2c'/2c/2c'/2 c/2e/2c'/2c/2 e/2c'/2c/2c'/2|F/2A/2f/2F/2 ^G/2F/2D/2C/2 F/2A/2f/2F/2 A/2f/2F/2f/2|
+B/2d/2b/2B/2 d/2b/2B/2b/2 B/2d/2b/2B/2 d/2b/2B/2b/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|c/2e/2c'/2c/2 e/2c'/2c/2c'/2 c/2e/2c'/2c/2 e/2c'/2c/2c'/2|F/2A/2f/2F/2 ^G/2F/2D/2C/2 F/2A/2f/2F/2 A/2f/2F/2f/2|
+F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|
+B/2d/2b/2B/2 d/2b/2B/2b/2 B/2d/2b/2B/2 d/2b/2B/2b/2|B/2d/2b/2B/2 d/2b/2B/2b/2 B/2d/2b/2B/2 d/2b/2B/2b/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|
+c/2e/2c'/2c/2 e/2c'/2c/2c'/2 c/2e/2c'/2c/2 e/2c'/2c/2c'/2|c/2e/2c'/2c/2 e/2c'/2c/2c'/2 c/2e/2c'/2c/2 e/2c'/2c/2c'/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|
+F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|
+F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|B/2d/2b/2B/2 d/2b/2B/2b/2 B/2d/2b/2B/2 d/2b/2B/2b/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|
+c/2e/2c'/2c/2 e/2c'/2c/2c'/2 c/2e/2c'/2c/2 e/2c'/2c/2c'/2|F/2A/2f/2F/2 ^G/2F/2D/2C/2 F/2A/2f/2F/2 A/2f/2F/2f/2|B/2d/2b/2B/2 d/2b/2B/2b/2 B/2d/2b/2B/2 d/2b/2B/2b/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|
+c/2e/2c'/2c/2 e/2c'/2c/2c'/2 c/2e/2c'/2c/2 e/2c'/2c/2c'/2|F/2A/2f/2F/2 A/2f/2F/2f/2 Fb/2b/2 _eb|B/2d/2b/2B/2 d/2b/2B/2b/2 B/2d/2b/2B/2 d/2b/2B/2b/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|
+c/2=e/2c'/2c/2 e/2c'/2c/2c'/2 c/2e/2c'/2c/2 e/2c'/2c/2c'/2|F/2A/2f/2F/2 ^G/2F/2D/2C/2 F/2A/2f/2F/2 A/2f/2F/2f/2|B/2d/2b/2B/2 d/2b/2B/2b/2 B/2d/2b/2B/2 d/2b/2B/2b/2|F/2A/2f/2F/2 A/2f/2F/2f/2 F/2A/2f/2F/2 A/2f/2F/2f/2|
+c/2e/2c'/2c/2 e/2c'/2c/2c'/2 c/2e/2c'/2c/2 e/2c'/2c/2c'/2|F/2A/2f/2F/2 A/2F/2D/2C/2 F2 z2|^g/2a/2=g/2f/2 dc ^g/2a/2=g/2f/2 dc|=B/2d/2f/2a/2 _B/2^c/2e/2g/2 f
