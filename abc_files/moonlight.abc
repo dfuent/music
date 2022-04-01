@@ -1,0 +1,59 @@
+X: 1
+T:Moonlight Sonata
+M:3/3
+L:1/4
+K:Amin
+Q:1/4=120
+% Headers below are optional
+A:
+O:
+N:
+N:
+%
+% And now your lovely music...
+|[eA12] a c'|e a c'|e a c'|e a c'|
+|[eG12] a c'|e a c'|e a c'|e a c'|
+|[fF6] a c'|f a c'|[fD6] ^a d|f b d|
+|[eE6] ^g d|e a c'|[eE6] a b|e ^g b|
+|[eA,6] a c'|e a c'|e a c'|[eE2] a [c'E]|
+|[eE7] b d| e b d|e b d|[eE2] b [dE]|
+|[eE6] a c'|e a c'|[fF6] a d|f a d|
+|[eE6] g c'|e g c'|[fD3] g b|[fG2] g b|
+|[eC3] g c'|e g c'|e g c'|e g c'|
+|[_eC6] g c'|_e g c'|_e g c'|[_e_E2] g [c'_E]|
+|[_e_E7] g _d| _e g _d|_e g _d|[_e_E2] g [_d_E]|
+|[_e_E7] _a c'|_e _a c'| _e ^f c'| [dD3] ^f c'|
+|[dD6] g _b|d g _b|[c_E3] _e g|[cC3] _e g|
+|[dD6] g _b|d g _b|[dD6] ^f a|d ^f a|
+|g _b d|g _b d|g b d|[gG3] b d|
+|[g_A3] c _e|[gC,3] c _e|[g_E3] c  _e|[g^F3] c _e|
+|[gG6] b d|g b d|g b d|[gG3] b d|
+|[g_A3] c _e|[gC,3] c _e|[g_E3] c _e|[g^F3] c _e|
+|[gG6] b d|g b d|g b d|[gG3] b d|
+|[g_A3] c _e|[gC3] c _e|[g_E3] c _e|[g^F3] c _e|
+|[gG6] b d|g b d|[gE,6] _b _d|g _b _d|
+|[fD,6] a d|f a d|[eA,6] g ^c|e g ^c|
+|d f a|f a d|a d f|[aA2] d [fA]|
+|[aA7] e g|a e g|a e g|[aA2] e [gA]|
+|[aA6] d f|a d f|[b^G3] d f|[aA3] d f|
+|[^gB7] d e|^g d e|^g d e|[^gB3] d e|
+|[aC6] c e|a c e|[bB3] d e|[cA3] ^d e|
+|[e^G] b d|[^gE3] b d|[^gF3] b d|[^gE3] b d|
+|e b d|[^gE,3] b d|[^gF,3] b d|[^gE,3] b d|
+|a c e|[aA3] c e|[aC3] c e|[aA3] c e|
+|a c e|[aA,3] c e|[aC3] c e|[aA,3] c e|
+|[E] f e|^g f b|[^gE6] d b|^g b f|
+|[^gE3] d f|[bE3] d f|[B] d f|[A] d f|
+|[E3^G3] d e|f e d|[B] d f|[A] d f|
+|[E3^G3] d e|f e d|[aF6] c f|a c f|
+|[aD3] d f|a d f|[^gE3] b e|[^gE,3] b e|
+|[A,] a c|[E] a c|e a c|[eE2] a [cE]|
+|[eE7] b d|e b d|e b d|[eE2] b [dE]|
+|[eE6] a c|e a c|[fF6] a d|f a d|
+|[eE6] g c|e g c|[fD3] g b|[fG3] g b|
+|[eC3] g c|e g c|e g c|[eG2] g [cG]|
+|[fG7] g b|f g b|f g b|[fG2] g [bG]|
+|[eG7] g c|d g b|d f b|[d^G3] e b|
+|[cA6] e a|c e a|[dF3] f b|[dD3] f b|
+|[eE6] a c|e a c|[eE6] ^g b|e ^g b|
+|a c a|e a e|C E C|A,3|[a6E6C6A6]|[a6E6C6A6]||
